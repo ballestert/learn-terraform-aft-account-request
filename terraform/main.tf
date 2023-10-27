@@ -2,12 +2,12 @@ module "sandbox" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
-    AccountEmail              = "tballester+20231027aft1@lucyinthecloud.com"
-    AccountName               = "aft-provisionned-account-1"
+    AccountEmail              = "tballester+20231027aft2@lucyinthecloud.com"
+    AccountName               = "aft-provisionned-account-2"
     ManagedOrganizationalUnit = "ou-68jw-uvli545u"
-    SSOUserEmail              = "tballester+20231027aft1@lucyinthecloud.com"
+    SSOUserEmail              = "tballester+20231027aft2@lucyinthecloud.com"
     SSOUserFirstName          = "AFT-provisionned user"
-    SSOUserLastName           = "1"
+    SSOUserLastName           = "2"
   }
 
   account_tags = {

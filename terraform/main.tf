@@ -34,7 +34,7 @@ module "test_sandbox" {
     AccountName               = "aft-provisionned-account-3"
     ManagedOrganizationalUnit = "sandbox:ou"
     SSOUserEmail              = "tballester+20231030aftsandboxtest@lucyinthecloud.com"
-    SSOUserFirstName          = "AFT-provisionned account"
+    SSOUserFirstName          = "AFT-provisionned account1"
     SSOUserLastName           = "3"
   }
 

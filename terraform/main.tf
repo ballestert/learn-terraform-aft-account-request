@@ -32,7 +32,7 @@ module "test_sandbox" {
   control_tower_parameters = {
     AccountEmail              = "tballester+20231030aftsandboxtest@lucyinthecloud.com"
     AccountName               = "aft-provisionned-account-3"
-    ManagedOrganizationalUnit = "sandbox:ou"
+    ManagedOrganizationalUnit = "sandbox:ou (ou-68jw-uvli545u)"
     SSOUserEmail              = "tballester+20231030aftsandboxtest@lucyinthecloud.com"
     SSOUserFirstName          = "AFT-provisionned account_repaired"
     SSOUserLastName           = "3"

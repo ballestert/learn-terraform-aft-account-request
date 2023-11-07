@@ -87,7 +87,7 @@ module "test_sandbox20231106" {
 
   control_tower_parameters = {
     AccountEmail              = "tballester+20231106test1@lucyinthecloud.com"
-    AccountName               = "micropole-tballester1-int-sandbox-account "
+    AccountName               = "micropole-tballester1-int-sandbox-account"
     ManagedOrganizationalUnit = "sandbox:ou (ou-68jw-uvli545u)"
     SSOUserEmail              = "tballester+20231106test1@lucyinthecloud.com"
     SSOUserFirstName          = "Thomas"
